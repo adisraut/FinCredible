@@ -61,7 +61,7 @@
 ### Steps to Get Started
 1. **Clone the repository**:
 ```
-git clone https://github.com/hk151109/FinCredible.git
+git clone https://github.com/adisraut/FinCredible.git
 cd FinCredible
 ```
 
